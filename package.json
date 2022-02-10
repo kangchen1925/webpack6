@@ -19,7 +19,7 @@
   "homepage": "https://github.com/kangchen1925/webpack6#readme",
   "devDependencies": {
     "css-loader": "^3.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass": "^1.21.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
